@@ -12,7 +12,7 @@ Library     SeleniumLibrary
 *** Keywords ***
 เปิด Chrome ขึ้นมา
     Open Browser    http://www.google.co.th     chrome
-ค้นหา facebook
+ค้นหา รังนก
     Input Text    q    รังนก
 คลิ้กปุ่ม serach
     Press Keys    q   RETURN
